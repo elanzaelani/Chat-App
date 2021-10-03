@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "779103983045",
+    "project_id": "chat-app-elan",
+    "storage_bucket": "chat-app-elan.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:779103983045:android:2c78b3d850e8c6a138e7ac",
+        "android_client_info": {
+          "package_name": "com.elzaelani.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "779103983045-to55mbte7ih345g4dq5pfomhbf3hqjm9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.elzaelani.chatapp",
+            "certificate_hash": "67ec282121db7962d6d328e12c311e46206a8116"
+          }
+        },
+        {
+          "client_id": "779103983045-gu46envlh03vfpbldae64cf9v5jurbon.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxvveJvdQZP_LsQHlBrvd4qUNuRbmfJLo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "779103983045-gu46envlh03vfpbldae64cf9v5jurbon.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
